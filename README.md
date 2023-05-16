@@ -1,5 +1,5 @@
 # Data_analysis_training
-This repository contains exercises and code related to a training in data analysis using the pandas library in Python. The exercises cover various topics such as reading and processing data, creating linear regression and SVM models, calculating errors, working with different file formats and implementing unit tests.
+This repository contains exercises and code related to a training in data analysis using scikit-learn, numpy and pandas libraries in Python. The exercises cover various topics such as reading and processing data, creating linear regression and SVM models, calculating errors, working with different file formats and implementing unit tests.
 
 All the code is in three different files:
 -  `part1_BIC.py`
